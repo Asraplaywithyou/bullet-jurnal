@@ -1,2 +1,2 @@
-# bullet-jurnal
+# bullet-jornal
 okay
