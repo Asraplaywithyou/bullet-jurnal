@@ -1,0 +1,2 @@
+# bullet-jurnal
+okay
